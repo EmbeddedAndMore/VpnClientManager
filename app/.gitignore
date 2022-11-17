@@ -3,3 +3,5 @@
 htmlcov
 __pychache__
 .vscode
+.env
+.DS_Store
